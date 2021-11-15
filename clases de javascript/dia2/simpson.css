@@ -1,0 +1,31 @@
+body{
+    background-color: aqua;
+}
+.form{
+    display: flex;
+    flex-direction: column;
+    width: 10%;
+}
+table {
+    width: 50%;
+    border: 1px solid rgb(227, 243, 6);
+    margin: -50px 0 0 0;
+ }
+ th, td {
+    width: 25%;
+    text-align: left;
+    vertical-align: top;
+    border: 1px solid rgb(204, 247, 12);
+    border-spacing: 0;
+ }
+
+ table{
+    text-align: center;
+    margin: 0 auto;
+    
+} 
+thead th{
+    height: 24px;
+    width: 50px;
+    
+}

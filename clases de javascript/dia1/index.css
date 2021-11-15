@@ -1,0 +1,47 @@
+
+
+header{
+    background-color: black;
+    margin-bottom: 20px;
+    width: auto;
+    height: 80px;
+}
+
+main{
+    background-color: blue;
+    text-align: center;
+    margin: 50px;
+    padding: 20px;
+    height: 320px;
+    border-radius: 50px;
+    border: 5px solid black;
+    color: white;
+}
+
+main p{
+    font-size: 20px;
+}
+
+.form{
+    width: 150px;
+    margin: 0 0 0 510px;
+}
+
+form div {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+
+
+a button{
+    cursor: pointer;
+}
+
+footer{
+    background-color: black;
+    margin-bottom: 20px;
+    width: auto;
+    height: 80px;
+}
